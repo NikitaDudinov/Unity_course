@@ -9,7 +9,7 @@
 
 ## Практические занятия
 * [Повторение основ C#. Работа с классами](https://docs.google.com/presentation/d/1e5s93eOqRzr4vpj82k5vfmdsXwWwUX57rOe0_yj4USA/edit?slide=id.p#slide=id.p)
+* [Практикуем ООП](https://docs.google.com/presentation/d/13KJM5cNt1GcWiAS6hQBjPPougHzWtZX_NIOhdiu0tvY/edit?slide=id.g3b238e0240a_0_193#slide=id.g3b238e0240a_0_193)
 
 ## Лабораторные работы
 * [Лабораторная работа №1](https://docs.google.com/document/d/1A9N1Ll8IlopnfafcJxSMgFAShqu3MRo40ZZZ7oZQObM/edit?tab=t.0#heading=h.h096fgm93rvh)
-* [Лабораторная работа №2](https://docs.google.com/document/d/1nXj5oRzVrSXSv4hNUn9hx7VLNwiKHdbQw-_ScT6nv9E/edit?tab=t.0)
