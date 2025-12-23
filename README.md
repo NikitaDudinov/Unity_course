@@ -6,6 +6,7 @@
 ## Лекции
 * [C#: От основ к волшебству классов](https://docs.google.com/presentation/d/1DpTzHvOiwToQhw1RDKD0S-chHZv6vfwuy6qxDgnIULs/edit?slide=id.p#slide=id.p)
 * [ООП: От Питомца до Марса](https://docs.google.com/presentation/d/15sYAqKX1y_Hie5n5KAOYgGNn7itqAwx4yET93l3bHrE/edit?slide=id.p#slide=id.p)
+* [C#: Как объекты оживляют игру](https://docs.google.com/presentation/d/14ppKLbWK_jhQJG4DifKz2DLvnYTRKHlI_wn5xzpX8TI/edit?slide=id.p#slide=id.p)
 
 ## Практические занятия
 * [Повторение основ C#. Работа с классами](https://docs.google.com/presentation/d/1e5s93eOqRzr4vpj82k5vfmdsXwWwUX57rOe0_yj4USA/edit?slide=id.p#slide=id.p)
