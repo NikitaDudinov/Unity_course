@@ -11,6 +11,7 @@
 ## Практические занятия
 * [Повторение основ C#. Работа с классами](https://docs.google.com/presentation/d/1e5s93eOqRzr4vpj82k5vfmdsXwWwUX57rOe0_yj4USA/edit?slide=id.p#slide=id.p)
 * [Практикуем ООП](https://docs.google.com/presentation/d/13KJM5cNt1GcWiAS6hQBjPPougHzWtZX_NIOhdiu0tvY/edit?slide=id.p#slide=id.p)
+* [Взаимодействие объектов](https://docs.google.com/presentation/d/1ssI-QmUL4EBtvkQ-nT0US4gY_cWOT4nE8kgtwoh9CFw/edit?slide=id.g3920477a3c0_0_0#slide=id.g3920477a3c0_0_0)
 
 ## Лабораторные работы
 * [Лабораторная работа №1](https://docs.google.com/document/d/1A9N1Ll8IlopnfafcJxSMgFAShqu3MRo40ZZZ7oZQObM/edit?tab=t.0#heading=h.h096fgm93rvh)
