@@ -19,3 +19,4 @@
 ## Лабораторные работы
 * [Лабораторная работа №1](https://docs.google.com/document/d/1A9N1Ll8IlopnfafcJxSMgFAShqu3MRo40ZZZ7oZQObM/edit?tab=t.0#heading=h.h096fgm93rvh)
 * [Лабораторная работа №2](https://docs.google.com/document/d/1xXOrhiW2pRHdvOxc-QB_Iu68lBWaI109ldmpI_dqzko/edit?tab=t.0#heading=h.duasob2zw711)
+* [Лабораторная работа №3](https://docs.google.com/document/d/10Sy8trP79YonZxuCdH0CPm2o4nzwwgluajJEA7n22sE/edit?tab=t.0#heading=h.duasob2zw711)
