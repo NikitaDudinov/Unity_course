@@ -15,6 +15,7 @@
 * [Создаем мини-игру](https://docs.google.com/presentation/d/1DEas6NDt9mkzBKakUSo0gOJ_lBXB82gJBCwPhBapltU/edit?slide=id.g3bbc51cdf8b_0_0#slide=id.g3bbc51cdf8b_0_0)
 * [Игра Марио (часть 1)](https://docs.google.com/presentation/d/11-y72FvhoVe0mZTrcBiuaN2FeUiHVdyIyExUB3UfQDY/edit?slide=id.g3f8cdd3a08d9b490_0#slide=id.g3f8cdd3a08d9b490_0)
 * [Игра Марио (часть 2)](https://docs.google.com/presentation/d/1OGRe7xQKIk3yR8FJwxPSVLQ6uFe1yykEfjWmi_fP8kI/edit?slide=id.g3c6e74cf7cf_0_0#slide=id.g3c6e74cf7cf_0_0)
+* [Игра Марио (часть 3)](https://docs.google.com/presentation/d/18pXrdmRf93X3dVm7kEBFsHMhRv0ahkDLf9H6Oa3LNsY/edit?slide=id.g3c7fa2f554b_0_0#slide=id.g3c7fa2f554b_0_0)
 
 ## Практические занятия
 * [Повторение основ C#. Работа с классами](https://docs.google.com/presentation/d/1e5s93eOqRzr4vpj82k5vfmdsXwWwUX57rOe0_yj4USA/edit?slide=id.p#slide=id.p)
@@ -30,3 +31,4 @@
 * [Лабораторная работа №5](https://docs.google.com/document/d/1SbymuPisaOIKAeVUKxXqlqlKJsRDOIvtDXUt6suNkmQ/edit?tab=t.0#heading=h.duasob2zw711)
 * [Лабораторная работа №6](https://docs.google.com/document/d/1ayTgk3LdyBnAY9R774UkdMNweTdvgNn2mhhakmMlVYA/edit?tab=t.0)
 * [Лабораторная работа №7](https://docs.google.com/document/d/16k_3AB2DzM9TMOMrh2DEZ1VEBoyg_5U2hka1Us7w92Q/edit?tab=t.0)
+* [Лабораторная работа №8](https://docs.google.com/document/d/1ws9dR6X9ZsX6LwLOf_A-hxL55l7eNHyD5heA_EI6maM/edit?tab=t.0)
