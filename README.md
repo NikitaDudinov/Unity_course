@@ -16,6 +16,7 @@
 * [Игра Марио (часть 1)](https://docs.google.com/presentation/d/11-y72FvhoVe0mZTrcBiuaN2FeUiHVdyIyExUB3UfQDY/edit?slide=id.g3f8cdd3a08d9b490_0#slide=id.g3f8cdd3a08d9b490_0)
 * [Игра Марио (часть 2)](https://docs.google.com/presentation/d/1OGRe7xQKIk3yR8FJwxPSVLQ6uFe1yykEfjWmi_fP8kI/edit?slide=id.g3c6e74cf7cf_0_0#slide=id.g3c6e74cf7cf_0_0)
 * [Игра Марио (часть 3)](https://docs.google.com/presentation/d/18pXrdmRf93X3dVm7kEBFsHMhRv0ahkDLf9H6Oa3LNsY/edit?slide=id.g3c7fa2f554b_0_0#slide=id.g3c7fa2f554b_0_0)
+* [Игра Марио (часть 4)](https://docs.google.com/presentation/d/1LhAFqPvWHLq5eu17cIbK3uqIeeaf6JfPWLxxL7OgAoo/edit?slide=id.g3c83be11e7c_0_0#slide=id.g3c83be11e7c_0_0)
 
 ## Практические занятия
 * [Повторение основ C#. Работа с классами](https://docs.google.com/presentation/d/1e5s93eOqRzr4vpj82k5vfmdsXwWwUX57rOe0_yj4USA/edit?slide=id.p#slide=id.p)
