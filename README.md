@@ -33,3 +33,4 @@
 * [Лабораторная работа №6](https://docs.google.com/document/d/1ayTgk3LdyBnAY9R774UkdMNweTdvgNn2mhhakmMlVYA/edit?tab=t.0)
 * [Лабораторная работа №7](https://docs.google.com/document/d/16k_3AB2DzM9TMOMrh2DEZ1VEBoyg_5U2hka1Us7w92Q/edit?tab=t.0)
 * [Лабораторная работа №8](https://docs.google.com/document/d/1ws9dR6X9ZsX6LwLOf_A-hxL55l7eNHyD5heA_EI6maM/edit?tab=t.0)
+* [Лабораторная работа №9](https://docs.google.com/document/d/1o-lEXjuP4aC3gX6fvJcbOFfMLQqzkQ0x9Ew-2Wtu6Bc/edit?tab=t.0)
