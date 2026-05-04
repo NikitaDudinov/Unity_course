@@ -20,6 +20,7 @@
 * [Игра Марио (часть 5)](https://docs.google.com/presentation/d/1jb17TMxXu49zDO-REKObvUv0rTGe13_u2RMh5h0Ah7g/edit?slide=id.g3d1807815ed_0_0#slide=id.g3d1807815ed_0_0)
 * [Игра Марио (Рефакторинг)](https://docs.google.com/presentation/d/1DHm9NQXtsDMOm80ZIeBQwR7UvG4L5_cFTnYYUflYkq8/edit?slide=id.g3d4839b1aac_0_0#slide=id.g3d4839b1aac_0_0)
 * [Игра Марио (Финал)](https://docs.google.com/presentation/d/1g6TjqbO3q3JkIBxNax0rtkDb1gRLIaDYYmCaRHqQIBU/edit?slide=id.g3d827883a3d_0_0#slide=id.g3d827883a3d_0_0)
+* [Проектируем новую игру](https://docs.google.com/presentation/d/1DAabbKGZ8rI7cg6dsBDy7T_d18FiHWs0aW9B16bzJq8/edit?slide=id.g3db8006fe8f_0_0#slide=id.g3db8006fe8f_0_0)
 
 ## Практические занятия
 * [Повторение основ C#. Работа с классами](https://docs.google.com/presentation/d/1e5s93eOqRzr4vpj82k5vfmdsXwWwUX57rOe0_yj4USA/edit?slide=id.p#slide=id.p)
